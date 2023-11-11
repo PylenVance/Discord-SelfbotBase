@@ -1,4 +1,4 @@
-Hello, This is a small discord.js v13 selfbot base made by Lesik.
+Hello, This is a small discord.js v13 selfbot base made by Lesik (PylenVance).
 
 This features 2 commands listed below to test it out.
 {
